@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://wallpaper.dog/large/20512965.png" width=100% ><br>
+<img src="https://free4kwallpapers.com/uploads/originals/2020/10/19/minimal-dark-coding-wallpaper.png" width=100% ><br>
 
 <h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
 <h3 align="center">frontend developer from India</h3>
